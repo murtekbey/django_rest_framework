@@ -1,0 +1,5 @@
+{
+    "python.autoComplete.extraPaths": [
+        "C:/Users/murte/Desktop/CODE/django-rest-framework/django-rest2/env/Lib/site-packages"
+    ]
+}
